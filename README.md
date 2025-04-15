@@ -1,7 +1,3 @@
-Here’s a simple and clean README file for your repository:
-
----
-
 # Terminal
 
 A terminal application built using **Golang**.
@@ -61,7 +57,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Author
 
 - [Marwan Summakieh](https://github.com/MarwanSummakieh)
-
----
-
-Feel free to copy this into your README file. Let me know if you need further customization!
